@@ -23,3 +23,9 @@
 //         console.log(first)
 //     }
 // }
+
+//tsk 3
+
+let iterable = [1, 2, 3]
+let r = iterable.split('')
+console.log(r)
